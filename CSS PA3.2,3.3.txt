@@ -1,0 +1,63 @@
+PA 3.2
+
+body {
+  display: flex;
+  width: 500px;
+}
+
+.red {
+  background-color: red;
+  position: absolute;
+  margin-left: 210px;
+  height: 100px;
+  width: 100px;
+}
+
+.blue {
+  background-color: blue;
+  position: relative;
+  height: 100px;
+  width: 100px;
+}
+
+.yellow {
+  background-color: yellow;
+  position: absolute;
+  margin-left: 105px;
+  height: 100px;
+  width: 100px;
+}
+
+-------------------------------------------------------------
+PA 3.3
+
+body{
+  margin: 0px;
+  display: flex;
+  width: 500px;
+}
+
+.red {
+  background-color:red;
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 200px;
+  height: 100px;
+  width: 100px;
+}
+
+.blue {
+  background-color:blue;
+  position: absolute;
+  margin-top: 100px;
+  margin-left: 100px;
+  height: 100px;
+  width: 100px;
+}
+
+.yellow {
+  background-color:yellow;
+  position: static;
+  height: 100px;
+  width: 100px;
+}
